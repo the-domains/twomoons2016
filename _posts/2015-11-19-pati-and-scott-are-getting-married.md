@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome post
-datePublished: '2015-11-19T20:07:39.417Z'
-dateModified: '2015-11-19T20:03:16.094Z'
+datePublished: '2015-11-19T20:09:01.569Z'
+dateModified: '2015-11-19T20:07:39.417Z'
 title: Pati and Scott are getting married
 authors: []
 publisher:
