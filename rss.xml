@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[twomoons2016]]></title>
+        <description><![CDATA[twomoons2016]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 22:40:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Full moon and New moon]]></title>
+            <description><![CDATA[<article><h1>Full moon and New moon</h1><p>We will be getting married on the first Saturday after the full moon in July and then we will have a Buddhist ceremony on the first Saturday after the new moon in August.</p><img src="http://thestarhouse.net/images/FullNewMoon-e1330111524289.jpg"></article>]]></description>
+            <link>https://www.google.co.uk/search?q=two+moons&amp;espv=2&amp;biw=1164&amp;bih=551&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0CAYQ_AUoAWoVChMI9oORpMadyQIVDB8aCh1b4Ad0#tbm=isch&amp;q=full+moon+new+moon&amp;imgrc=0qw4DOkal6aVHM%3A</link>
+            <guid isPermaLink="false">c9ec7980-9734-47ec-be57-c55d1dc42f44</guid>
+            <pubDate>Thu, 19 Nov 2015 22:40:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
