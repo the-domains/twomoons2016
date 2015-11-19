@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Welcome post
-datePublished: '2015-11-19T20:09:01.569Z'
-dateModified: '2015-11-19T20:07:39.417Z'
+datePublished: '2015-11-19T20:09:56.789Z'
+dateModified: '2015-11-19T20:09:27.227Z'
 title: Pati and Scott are getting married
 authors: []
 publisher:
