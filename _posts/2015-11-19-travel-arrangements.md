@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: How to get there
-datePublished: '2015-11-19T22:09:04.712Z'
-dateModified: '2015-11-19T22:08:44.968Z'
+datePublished: '2015-11-19T22:19:42.621Z'
+dateModified: '2015-11-19T22:19:39.003Z'
 title: Travel arrangements
 author: []
+sourcePath: _posts/2015-11-19-travel-arrangements.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-travel-arrangements.md
-published: true
 url: travel-arrangements/index.html
 _type: Article
 
