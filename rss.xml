@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[twomoons2016]]></title>
+        <description><![CDATA[twomoons2016]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 Nov 2015 07:55:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[travel arrangements]]></title>
+            <description><![CDATA[<article><h1>travel arrangements</h1><img src="https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xfp1/v/t35.0-12/12250399_10207294348133290_514549444_o.jpg?oh=2cdb86fb912b4743b0392587a22b27e2&oe=56519E5B"></article>]]></description>
+            <link>undefinedtravel-arrangements/index.html</link>
+            <guid isPermaLink="false">c9db1a06-39f8-4c70-bf5c-c0eec5a9083f</guid>
+            <pubDate>Fri, 20 Nov 2015 07:55:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
