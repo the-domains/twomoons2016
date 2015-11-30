@@ -1,7 +1,7 @@
 name: twoMoons2016
 favicon: null
-layout_spectrum: 0.07129
-typography_spectrum: 0.4969
+layout_spectrum: 0.25522
+typography_spectrum: 0.60339
 title: twomoons2016
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#807f7b'
     - '#514e49'
     - '#190700'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.8125
-  rhythmicContrast: 0
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
